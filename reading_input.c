@@ -1,8 +1,21 @@
 #include <stdio.h>
 
 int main() {
-  int var;
-  printf("Insira a nota do minicurso de C (dica: 10) \n");
-  scanf("%d", &var);
-  printf("A nota que voce escolheu foi: %d \n", var);
+  int inteiro;
+  scanf("%d", &inteiro);
+
+  float flutuante;
+  scanf("%f", &flutuante);
+
+  double flutuante;
+  scanf("%f", &flutuante);
+
+
+  char caracter;
+  scanf("%c", &caracter)
+
+  printf();
+  printf();
+  printf();
+  printf();
 }
